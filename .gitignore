@@ -1,0 +1,19 @@
+# Project-specific
+
+**/*.pth
+**/*.csv
+**/*.log
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+sources/test.py
+try.py
+model_config.json
